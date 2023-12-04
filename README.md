@@ -1,6 +1,6 @@
 # TwitterSentimentAnalysis
 This project aims to check consumers opinions of a determined product or subject in Twitter. \
-It is important to understand consumers opinions and redirect the brand in the best possible direction based on the data of clients feelings. \ 
+It is important to understand consumers opinions and redirect the brand in the best possible direction based on the data of clients feelings. \
 I accomplish that by twitter extraction with tweepy and doing sentiment analysis with textblob.
 
 # Code
